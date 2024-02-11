@@ -1,0 +1,5 @@
+3241245623537 45 18 44 Govt_Highschool_Rawalpindi
+7839847586934 26 12 256 Govt_Model_School_Sargodha
+4895820028495 89 53 129 F.G_Degree_College_Islamabad
+7883892347118 47 0 152 FIC
+7883894765339 47 23 675 Air_University_E-9_Islamabad
